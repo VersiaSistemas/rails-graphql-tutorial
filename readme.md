@@ -1,13 +1,7 @@
 # Ruby
 
 1. [RAILS](#RAILS)
-
-   - [metaprogramacion-en-ruby-parte-1](https://vincentblog.xyz/posts/metaprogramacion-en-ruby-parte-1)
-
-   - [metaprogramacion-en-ruby-parte-2](https://vincentblog.xyz/posts/metaprogramacion-en-ruby-parte-2)
-
-   1.1 [Estructura](#Estructura)
-
+   - [Estructura](#Estructura)
 2. [Preparando el entorno](#Preparando-el-entorno)
 3. [Desde 0](#Desde-0)
 4. [INFO (WVC)](#INFO-(WVC))
@@ -18,7 +12,12 @@
 
 ## RAILS
 
-- [BASE](https://api.rubyonrails.org/)
+- [Api doc](https://api.rubyonrails.org/)
+- [Manuales oficiales](https://guides.rubyonrails.org/)
+- [Getting started](https://guides.rubyonrails.org/getting_started.html)
+- [metaprogramacion-en-ruby-parte-1](https://vincentblog.xyz/posts/metaprogramacion-en-ruby-parte-1)
+- [metaprogramacion-en-ruby-parte-2](https://vincentblog.xyz/posts/metaprogramacion-en-ruby-parte-2)
+
 
 ### Estructura
 
@@ -53,7 +52,7 @@
    2. Ruby solargraph
    3. Ruby Rubocop
    4. Rails
-
+4. [Debugging RoR server in vsCode](https://rahul-arora.medium.com/debugging-ruby-on-rails-server-in-vs-code-819b45113e78)
 ### Ruby versions on system
 
 update:
@@ -65,11 +64,10 @@ update:
 
 ## Rails Starters
 
-- [Manuales oficiales](https://guides.rubyonrails.org/)
-
+Doc: En una terminal  `rails new --help`
 ### Rails CRUD con front
 
--[como-crear-un-crud-con-ruby-on-rails-6-y-bootstrap-4-parte-1](https://blog.nubecolectiva.com/como-crear-un-crud-con-ruby-on-rails-6-y-bootstrap-4-parte-1/)
+- [Como crear un crud con ruby on rails 6 y bootstrap 4, parte-1](https://blog.nubecolectiva.com/como-crear-un-crud-con-ruby-on-rails-6-y-bootstrap-4-parte-1/)
 
 ```ruby
 rails new crud -d=postgresql
