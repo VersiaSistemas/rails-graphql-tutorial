@@ -15,6 +15,8 @@
 - [Api doc](https://api.rubyonrails.org/)
 - [Manuales oficiales](https://guides.rubyonrails.org/)
 - [Getting started](https://guides.rubyonrails.org/getting_started.html)
+- [Conceptos Basicos](https://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project-installing-rails)
+- [MVC Rails](https://guides.rubyonrails.org/getting_started.html#mvc-and-you)
 - [metaprogramacion-en-ruby-parte-1](https://vincentblog.xyz/posts/metaprogramacion-en-ruby-parte-1)
 - [metaprogramacion-en-ruby-parte-2](https://vincentblog.xyz/posts/metaprogramacion-en-ruby-parte-2)
 
@@ -61,6 +63,9 @@ update:
  cd ~/.rbenv/plugins/ruby-build
  git pull
 ```
+### bundle
+
+
 
 ## Rails Starters
 
