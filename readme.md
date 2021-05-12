@@ -89,7 +89,7 @@ bin/rails middleware
 - [Graphql - Ruby](https://www.howtographql.com/graphql-ruby/0-introduction/)
 - [Ruby-GraphQl generators](https://graphql-ruby.org/schema/generators#graphqlinstall)
 
-## Desde 0
+## Graphql-Rails Desde 0
 
 - [Start](https://www.howtographql.com/graphql-ruby/1-getting-started/)
 
