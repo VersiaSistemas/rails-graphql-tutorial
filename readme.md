@@ -1,7 +1,7 @@
-# Ruby
+# Ruby-Rails-Graphql
 
 1. [RAILS](#RAILS)
-   - [Estructura](#Estructura)
+   - [Estructura Rails](#Estructurarails)
 2. [Preparando el entorno](#Preparando-el-entorno)
 3. [Desde 0](#Desde-0)
 4. [INFO (WVC)](#INFO-(WVC))
@@ -21,7 +21,7 @@
 - [metaprogramacion-en-ruby-parte-2](https://vincentblog.xyz/posts/metaprogramacion-en-ruby-parte-2)
 
 
-### Estructura
+### Estructura Rails
 
 | File/Folder         | Purpose                                                                                                                                                                                                                                                                    |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
